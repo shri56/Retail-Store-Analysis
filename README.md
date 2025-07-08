@@ -1,7 +1,7 @@
 # Retail Store Sales Analysis – Power BI Project
 
 This Power BI project analyzes the sales performance of an online retail store using real-world data. The dashboard and visuals were created in response to specific business questions posed by the CEO and CMO.
-![Retail Store Analysis](./a3940ccc-780e-4803-9037-acddc11452e6.png)
+
 ## Objectives
 
 This report addresses the following key questions:
@@ -63,3 +63,5 @@ To ensure the quality of insights, the dataset was cleaned using Power BI’s Po
 
 **Shri Vishaal**  
 Business Analyst | Power BI Enthusiast | Student Entrepreneur  
+
+![Retail Store Analysis](./a3940ccc-780e-4803-9037-acddc11452e6.png)
